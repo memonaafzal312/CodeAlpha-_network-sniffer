@@ -1,4 +1,3 @@
-# CodeAlpha-_network-sniffer
 #  Basic Network Packet Sniffer
 
 A Python-based network packet sniffer that captures and analyzes network traffic in real-time. Built for educational purposes to understand network protocols and packet structure.
